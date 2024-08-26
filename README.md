@@ -4,15 +4,15 @@ A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movies-dataset-template.streamlit.app/)
 
-### How to run it on your own machine
+### How to run it locally.
 
-1. Install the requirements
+1. Installing the requirements:
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Running the app:
 
    ```
    $ streamlit run streamlit_app.py
